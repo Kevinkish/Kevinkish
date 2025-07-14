@@ -51,7 +51,7 @@ I am an active and proud member of the **GDG on Campus UCB** community, where I 
 ---
 # 👋 Salut, je suis Kevin Kishikanyi Ruhamo !
 
-### 🚀 **Développeur Mobile | Designer UI/UX | Bâtisseur de Communauté** 🌐
+### 🚀 **Développeur Mobile | Flutter💙 & Kotlin📱 | Firebase🔥
 
 Je suis un **développeur mobile** passionné avec **3 ans d'expérience pratique** dans la création d'applications robustes et intuitives. Mon expertise réside principalement dans les écosystèmes **Flutter** et **Kotlin**, soutenue par une solide maîtrise de **Firebase** pour des solutions backend puissantes.
 
@@ -70,7 +70,7 @@ Au-delà du simple codage, j'apporte un œil attentif au design, garantissant qu
 
 * 📱 **Développement Mobile :** Construction d'applications multiplateformes performantes avec **Flutter** et **Dart**, ainsi que le développement Android natif en utilisant **Kotlin**.
 * ☁️ **Intégration Backend :** Connexion transparente des applications à des services backend puissants comme **Firebase** (Firestore, Authentification, Stockage, Cloud Functions et plus encore).
-* 🎨 **Compétence UI/UX :** Création d'interfaces utilisateur attrayantes et intuitives. Mes compétences en **Figma** et **Photoshop** me permettent de réaliser des designs et des prototypes convaincants, en me concentrant sur des expériences utilisateur exceptionnelles.
+* 🎨 **Compétences UI/UX :** Création d'interfaces utilisateur attrayantes et intuitives. Mes compétences en **Figma** et **Photoshop** me permettent de réaliser des designs et des prototypes convaincants, en me concentrant sur des expériences utilisateur exceptionnelles.
 * 💡 **Enthousiaste de l'Innovation :** Exploration et adoption continues des nouvelles technologies, avec un intérêt particulier pour les **dernières innovations de Google** et les avancées dans les **technologies graphiques**.
 
 #
