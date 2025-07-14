@@ -45,8 +45,7 @@ I am an active and proud member of the **GDG on Campus UCB** community, where I 
 
 ### 📫 Get in Touch:
 
-* **LinkedIn:** [Your LinkedIn Profile](Link to your LinkedIn profile)
-* **Email:** [Your Email](mailto:your.email@example.com)
-* **Portfolio (Optional):** [Link to your portfolio or featured projects]
-
+* **LinkedIn:** [Kevin Kishikanyi](https://www.linkedin.com/in/kevin-kishikanyi-06b816269)
+* **Email:** [kevinkish117@gmail.com](mailto:kevinkish117@gmail.com)
+  
 ---
