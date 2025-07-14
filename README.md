@@ -2,7 +2,7 @@
 
 Passionate Mobile Developer & Community Organizer.
 
-I am a mobile developer with **3 years of experience** specializing in the Flutter ecosystem. My expertise spans across:
+I am a mobile developer with **3 years of experience** specializing in the Flutter and Kotlin ecosystems. My expertise spans across:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
@@ -34,14 +34,12 @@ I am an active and proud member of the **GDG on Campus UCB** community, where I 
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=vue-dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevinkish&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinkish&layout=compact&theme=vue-dark" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=vue-dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinkish&theme=vue-dark" alt="GitHub Streak"/>
 </p>
-
-**Remember to replace `YourGitHubUsername` with your actual GitHub username!**
 
 ---
 
