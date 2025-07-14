@@ -51,7 +51,7 @@ I am an active and proud member of the **GDG on Campus UCB** community, where I 
 ---
 # 👋 Salut, je suis Kevin Kishikanyi Ruhamo !
 
-### 🚀 **Développeur Mobile | Flutter💙 & Kotlin📱 | Firebase🔥
+### 🚀 Développeur Mobile | Flutter💙 & Kotlin📱 | Firebase🔥
 
 Je suis un **développeur mobile** passionné avec **3 ans d'expérience pratique** dans la création d'applications robustes et intuitives. Mon expertise réside principalement dans les écosystèmes **Flutter** et **Kotlin**, soutenue par une solide maîtrise de **Firebase** pour des solutions backend puissantes.
 
