@@ -13,7 +13,7 @@ I am a mobile developer with **3 years of experience** specializing in the Flutt
 
 Beyond coding, I'm also a designer skilled in **Photoshop** and **Figma**, allowing me to appreciate and contribute to the visual and user experience aspects of my projects. 
 
----
+#
 
 ### 🚀 What I do:
 
@@ -23,13 +23,13 @@ Beyond coding, I'm also a designer skilled in **Photoshop** and **Figma**, allow
 * Graphic design and UI/UX prototyping with **Figma** and **Photoshop**.
 * Continuously exploring the latest Google technologies and innovations in graphic design.
 
----
+#
 
 ### 🌐 Community & Mentoring:
 
 I am an active and proud member of the **GDG on Campus UCB** community, where I serve as an **organizer and mentor** to over 200 passionate members. I enjoy sharing my knowledge and contributing to the growth of the next generation of developers.
 
----
+#
 
 ### 📈 GitHub Stats:
 
@@ -41,7 +41,7 @@ I am an active and proud member of the **GDG on Campus UCB** community, where I 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinkish&theme=vue-dark" alt="GitHub Streak"/>
 </p>
 
----
+#
 
 ### 📫 Get in Touch:
 
@@ -62,7 +62,7 @@ Je suis un **développeur mobile** passionné avec **3 ans d'expérience pratiqu
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Badge Firebase"/>
 </p>
 
----
+#
 
 ### ✨ Mes Compétences & Ce Que Je Fais :
 
@@ -73,13 +73,13 @@ Au-delà du simple codage, j'apporte un œil attentif au design, garantissant qu
 * 🎨 **Compétence UI/UX :** Création d'interfaces utilisateur attrayantes et intuitives. Mes compétences en **Figma** et **Photoshop** me permettent de réaliser des designs et des prototypes convaincants, en me concentrant sur des expériences utilisateur exceptionnelles.
 * 💡 **Enthousiaste de l'Innovation :** Exploration et adoption continues des nouvelles technologies, avec un intérêt particulier pour les **dernières innovations de Google** et les avancées dans les **technologies graphiques**.
 
----
+#
 
 ### 🤝 Communauté & Mentorat :
 
 Je crois qu'il est important de rendre et de favoriser la croissance au sein de la communauté technologique. Je suis un **Organisateur** et **Mentor** actif et fier au sein de la communauté **GDG on Campus UCB**, guidant plus de **200 membres passionnés**. Partager mes connaissances et autonomiser la prochaine génération de développeurs est une partie essentielle de mon parcours.
 
----
+#
 
 ### 📊 Statistiques & Activité GitHub :
 
