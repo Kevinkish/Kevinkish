@@ -101,5 +101,4 @@ Je suis toujours ouvert à la collaboration sur des projets stimulants ou à la 
 
 * **LinkedIn :** [Kevin Kishikanyi](https://www.linkedin.com/in/kevin-kishikanyi-06b816269)
 * **Email :** [kevinkish117@gmail.com](mailto:kevinkish117@gmail.com)
-* 
 ---
