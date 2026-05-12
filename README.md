@@ -1,15 +1,14 @@
 # 👋 Hi there, I'm Kevin Kishikanyi Ruhamo!
 
-**Software engineer & UI/UX Enthusiast | Community Leader @GDG on Campus UCB**
+**Software engineer & UI/UX Enthusiast**
 
 ---
 
 ### 👨‍💻 À propos de moi
 Je suis un **Développeur Mobile (Flutter & Kotlin)** passionné avec plus de **3 ans d'expérience**. Mon approche unique combine la puissance technique du développement mobile avec une sensibilité esthétique issue du design UI/UX, garantissant des applications performantes et centrées sur l'utilisateur.
 
-- 🌍 Basé en RD Congo, moteur de l'écosystème Tech local.
-- 🎙️ Organisateur communautaire et mentor pour la prochaine génération de talents.
-- 🎨 Adepte de la philosophie : *"Un code propre mérite une interface sublime."*
+- 🌍 Basé en RD Congo.
+- 🎙️ Organisateur communautaire et mentor.
 
 ---
 
@@ -17,10 +16,10 @@ Je suis un **Développeur Mobile (Flutter & Kotlin)** passionné avec plus de **
 
 | Domaine | Technologies |
 | :--- | :--- |
-| **Frontend Mobile** | `Flutter` `Dart` `Kotlin` `Android SDK` |
-| **Backend & Cloud** | `Firebase (Auth, Firestore, Cloud Functions, Messaging)` |
-| **Design & UI/UX** | `Figma` `Adobe Photoshop` `Material Design` |
-| **Outils & Dev** | `Git` `GitHub Actions` `Clean Architecture` `REST APIs` |
+| **Frontend Mobile** | `Flutter` `Dart` `Kotlin` |
+| **Backend & Cloud** | `Firebase` & `Fast APIs et autres` |
+| **Design & UI/UX** | `Figma` `Adobe Photoshop` `Stitch` `Material Design` |
+| **Outils & Dev** | `Git` `GitHub` `Clean Architecture` `REST APIs` |
 
 ---
 
@@ -45,14 +44,8 @@ En tant qu'**Organisateur & Mentor au GDG on Campus UCB**, je coordonne une comm
 
 ---
 
-### 🏗️ Projets en vedette
-* **[Projet Flutter]** : Développement d'une solution mobile multiplateforme intégrant des services Firebase en temps réel.
-* **[Projet Android Natif]** : Application Kotlin mettant l'accent sur les performances et l'architecture MVVM.
-
----
-
 ### 📫 Contactez-moi !
-Je suis toujours ouvert à de nouvelles opportunités, collaborations sur des projets open-source ou simplement pour échanger sur les dernières innovations technologiques.
+Je suis ouvert à de nouvelles opportunités, collaborations sur des projets open-source ou simplement pour échanger sur les dernières innovations technologiques.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kevin-kishikanyi-06b816269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
