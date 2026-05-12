@@ -1,104 +1,63 @@
 # 👋 Hi there, I'm Kevin Kishikanyi Ruhamo!
 
-Passionate Mobile Developer & Community Organizer.
+**Software engineer & UI/UX Enthusiast | Community Leader @GDG on Campus UCB**
 
-I am a mobile developer with **3 years of experience** specializing in the Flutter and Kotlin ecosystems. My expertise spans across:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=black" alt="Kotlin Badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
-</p>
-
-Beyond coding, I'm also a designer skilled in **Photoshop** and **Figma**, allowing me to appreciate and contribute to the visual and user experience aspects of my projects. 
-
-#
-
-### 🚀 What I do:
-
-* Developing robust and performant mobile applications with **Flutter** and **Dart**.
-* Integrating powerful backend services using **Firebase** (Firestore, Authentication, Storage, Functions).
-* Crafting intuitive and aesthetic user interfaces, with a strong focus on user experience.
-* Graphic design and UI/UX prototyping with **Figma** and **Photoshop**.
-* Continuously exploring the latest Google technologies and innovations in graphic design.
-
-#
-
-### 🌐 Community & Mentoring:
-
-I am an active and proud member of the **GDG on Campus UCB** community, where I serve as an **organizer and mentor** to over 200 passionate members. I enjoy sharing my knowledge and contributing to the growth of the next generation of developers.
-
-#
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevinkish&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinkish&layout=compact&theme=vue-dark" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinkish&theme=vue-dark" alt="GitHub Streak"/>
-</p>
-
-#
-
-### 📫 Get in Touch:
-
-* **LinkedIn:** [Kevin Kishikanyi](https://www.linkedin.com/in/kevin-kishikanyi-06b816269)
-* **Email:** [kevinkish117@gmail.com](mailto:kevinkish117@gmail.com)
-  
 ---
-# 👋 Salut, je suis Kevin Kishikanyi Ruhamo !
 
-### 🚀 Développeur Mobile | Flutter💙 & Kotlin📱 | Firebase🔥
+### 👨‍💻 À propos de moi
+Je suis un **Développeur Mobile (Flutter & Kotlin)** passionné avec plus de **3 ans d'expérience**. Mon approche unique combine la puissance technique du développement mobile avec une sensibilité esthétique issue du design UI/UX, garantissant des applications performantes et centrées sur l'utilisateur.
 
-Je suis un **développeur mobile** passionné avec **3 ans d'expérience pratique** dans la création d'applications robustes et intuitives. Mon expertise réside principalement dans les écosystèmes **Flutter** et **Kotlin**, soutenue par une solide maîtrise de **Firebase** pour des solutions backend puissantes.
+- 🌍 Basé en RD Congo, moteur de l'écosystème Tech local.
+- 🎙️ Organisateur communautaire et mentor pour la prochaine génération de talents.
+- 🎨 Adepte de la philosophie : *"Un code propre mérite une interface sublime."*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Badge Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Badge Dart"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=black" alt="Badge Kotlin"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Badge Firebase"/>
-</p>
+---
 
-#
+### 🛠️ Stack Technique
 
-### ✨ Mes Compétences & Ce Que Je Fais :
+| Domaine | Technologies |
+| :--- | :--- |
+| **Frontend Mobile** | `Flutter` `Dart` `Kotlin` `Android SDK` |
+| **Backend & Cloud** | `Firebase (Auth, Firestore, Cloud Functions, Messaging)` |
+| **Design & UI/UX** | `Figma` `Adobe Photoshop` `Material Design` |
+| **Outils & Dev** | `Git` `GitHub Actions` `Clean Architecture` `REST APIs` |
 
-Au-delà du simple codage, j'apporte un œil attentif au design, garantissant que les applications sont non seulement fonctionnelles mais aussi esthétiquement plaisantes et faciles à utiliser.
+---
 
-* 📱 **Développement Mobile :** Construction d'applications multiplateformes performantes avec **Flutter** et **Dart**, ainsi que le développement Android natif en utilisant **Kotlin**.
-* ☁️ **Intégration Backend :** Connexion transparente des applications à des services backend puissants comme **Firebase** (Firestore, Authentification, Stockage, Cloud Functions et plus encore).
-* 🎨 **Compétences UI/UX :** Création d'interfaces utilisateur attrayantes et intuitives. Mes compétences en **Figma** et **Photoshop** me permettent de réaliser des designs et des prototypes convaincants, en me concentrant sur des expériences utilisateur exceptionnelles.
-* 💡 **Enthousiaste de l'Innovation :** Exploration et adoption continues des nouvelles technologies, avec un intérêt particulier pour les **dernières innovations de Google** et les avancées dans les **technologies graphiques**.
+### 🤝 Leadership & Impact Communautaire
+En tant qu'**Organisateur & Mentor au GDG on Campus UCB**, je coordonne une communauté de plus de **200 membres passionnés**. Mon rôle inclut :
+- L'organisation de sessions techniques sur les écosystèmes **Google**.
+- Le mentorat de développeurs juniors pour faciliter leur insertion professionnelle.
+- La gestion de projets collaboratifs open-source.
 
-#
+---
 
-### 🤝 Communauté & Mentorat :
-
-Je crois qu'il est important de rendre et de favoriser la croissance au sein de la communauté technologique. Je suis un **Organisateur** et **Mentor** actif et fier au sein de la communauté **GDG on Campus UCB**, guidant plus de **200 membres passionnés**. Partager mes connaissances et autonomiser la prochaine génération de développeurs est une partie essentielle de mon parcours.
-
-#
-
-### 📊 Statistiques & Activité GitHub :
-
-Présentation de mes contributions et de mes technologies préférées.
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevinkish&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&bg_color=1F222E" alt="Statistiques GitHub de Kevinkish"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinkish&layout=compact&theme=vue-dark&hide_border=true&bg_color=1F222E" alt="Langages les plus utilisés par Kevinkish"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevinkish&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinkish&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinkish&theme=vue-dark&hide_border=true&background=1F222E" alt="Série de contributions GitHub de Kevinkish"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinkish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🏗️ Projets en vedette
+* **[Projet Flutter]** : Développement d'une solution mobile multiplateforme intégrant des services Firebase en temps réel.
+* **[Projet Android Natif]** : Application Kotlin mettant l'accent sur les performances et l'architecture MVVM.
 
 ---
 
 ### 📫 Contactez-moi !
+Je suis toujours ouvert à de nouvelles opportunités, collaborations sur des projets open-source ou simplement pour échanger sur les dernières innovations technologiques.
 
-Je suis toujours ouvert à la collaboration sur des projets stimulants ou à la discussion de nouvelles technologies. N'hésitez pas à me contacter !
+<p align="left">
+  <a href="https://www.linkedin.com/in/kevin-kishikanyi-06b816269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kevinkish117@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-* **LinkedIn :** [Kevin Kishikanyi](https://www.linkedin.com/in/kevin-kishikanyi-06b816269)
-* **Email :** [kevinkish117@gmail.com](mailto:kevinkish117@gmail.com)
 ---
+*Dernière mise à jour : Mai 2026*
