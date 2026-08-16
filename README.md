@@ -2,34 +2,41 @@
 
 Passionate Mobile Developer & Community Organizer.
 
-I am a mobile developer with **3 years of experience** specializing in the Flutter and Kotlin ecosystems. My expertise spans across:
+I am a mobile developer with **3 years of hands-on experience** specializing in cross-platform and native mobile development using **Flutter** and **Kotlin**, supported by robust backend integrations with **Firebase** and modern software architecture patterns.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=black" alt="Kotlin Badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 </p>
 
-Beyond coding, I'm also a designer skilled in **Photoshop** and **Figma**, allowing me to appreciate and contribute to the visual and user experience aspects of my projects. 
+---
 
-#
+### 🚀 What I Do:
 
-### 🚀 What I do:
+* 📱 **Mobile Development:** Building robust, scalable, and cross-platform mobile apps with **Flutter & Dart**, as well as native Android development with **Kotlin**.
+* ⚡ **Architecture & Performance:** Applying clean software architectures (MVVM, Clean Architecture, Modular design) to write maintainable and tested code.
+* ☁️ **Backend & Cloud Services:** Integrating **Firebase** ecosystems (Firestore, Auth, Storage, Cloud Functions) and REST APIs.
+* 🎨 **UI/UX & Graphic Design:** Crafting sleek, user-friendly interfaces with **Figma** and **Photoshop** to deliver seamless digital experiences.
+* 💡 **Tech & Community Leadership:** Mentoring student developers, speaking at tech events, and actively driving developer community initiatives.
 
-* Developing robust and performant mobile applications with **Flutter** and **Dart**.
-* Integrating powerful backend services using **Firebase** (Firestore, Authentication, Storage, Functions).
-* Crafting intuitive and aesthetic user interfaces, with a strong focus on user experience.
-* Graphic design and UI/UX prototyping with **Figma** and **Photoshop**.
-* Continuously exploring the latest Google technologies and innovations in graphic design.
+---
 
-#
+### 🛠️ Featured Projects:
+
+* **AfyaID:** A mobile application designed to securely manage biometric identification and offline-first access to medical data structures.
+* **Moteki:** A multiplatform commerce & inventory management solution built to streamline retail transactions and operations.
+* **DUKA_APP:** A mobile solution built for localized field management, digital transactions, and commercial operations.
+
+---
 
 ### 🌐 Community & Mentoring:
 
-I am an active and proud member of the **GDG on Campus UCB** community, where I serve as an **organizer and mentor** to over 200 passionate members. I enjoy sharing my knowledge and contributing to the growth of the next generation of developers.
+I serve as an **Organizer and Mentor** at **GDG on Campus UCB**, helping over **200+ passionate members** grow as software engineers. I love sharing practical industry skills, conducting technical workshops, and fostering the local tech community.
 
-#
+---
 
 ### 📈 GitHub Stats:
 
@@ -41,49 +48,58 @@ I am an active and proud member of the **GDG on Campus UCB** community, where I 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinkish&theme=vue-dark" alt="GitHub Streak"/>
 </p>
 
-#
+---
 
-### 📫 Get in Touch:
+### 📫 Get in Touch & Portfolio:
 
+* **Portfolio:** [kevin-kishikanyi.vercel.app](https://kevin-kishikanyi.vercel.app/)
 * **LinkedIn:** [Kevin Kishikanyi](https://www.linkedin.com/in/kevin-kishikanyi-06b816269)
 * **Email:** [kevinkish117@gmail.com](mailto:kevinkish117@gmail.com)
-  
+
 ---
+<br/>
+
 # 👋 Salut, je suis Kevin Kishikanyi Ruhamo !
 
 ### 🚀 Développeur Mobile | Flutter💙 & Kotlin📱 | Firebase🔥
 
-Je suis un **développeur mobile** passionné avec **3 ans d'expérience pratique** dans la création d'applications robustes et intuitives. Mon expertise réside principalement dans les écosystèmes **Flutter** et **Kotlin**, soutenue par une solide maîtrise de **Firebase** pour des solutions backend puissantes.
+Je suis un **développeur mobile** passionné avec **3 ans d'expérience pratique** dans la création d'applications robustes, évolutives et intuitives. Mon expertise s'articule autour des écosystèmes **Flutter** et **Kotlin**, appuyée par la maîtrise de **Firebase** pour des architectures backend performantes.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Badge Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Badge Dart"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=black" alt="Badge Kotlin"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Badge Firebase"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Badge Figma"/>
 </p>
 
-#
+---
 
 ### ✨ Mes Compétences & Ce Que Je Fais :
 
-Au-delà du simple codage, j'apporte un œil attentif au design, garantissant que les applications sont non seulement fonctionnelles mais aussi esthétiquement plaisantes et faciles à utiliser.
+* 📱 **Développement Mobile Multiplateforme & Natif :** Conception d'applications performantes avec **Flutter/Dart** et développement Android natif en **Kotlin**.
+* 🏗️ **Architecture & Qualité de Code :** Application des bonnes pratiques logicielles (Clean Architecture, MVVM) pour garantir des applications évolutives et faciles à maintenir.
+* ☁️ **Intégration Backend :** Connexion aux services **Firebase** (Firestore, Authentification, Stockage, Cloud Functions) et consommation d'APIs RESTful.
+* 🎨 **Design UI/UX :** Prototypage et réalisation d'interfaces attractives avec **Figma** et **Photoshop**, avec une attention particulière portée à l'expérience utilisateur.
+* 🤝 **Engagement Communautaire :** Organisation de sessions techniques, mentorat d'étudiants développeurs et promotion des technologies Google.
 
-* 📱 **Développement Mobile :** Construction d'applications multiplateformes performantes avec **Flutter** et **Dart**, ainsi que le développement Android natif en utilisant **Kotlin**.
-* ☁️ **Intégration Backend :** Connexion transparente des applications à des services backend puissants comme **Firebase** (Firestore, Authentification, Stockage, Cloud Functions et plus encore).
-* 🎨 **Compétences UI/UX :** Création d'interfaces utilisateur attrayantes et intuitives. Mes compétences en **Figma** et **Photoshop** me permettent de réaliser des designs et des prototypes convaincants, en me concentrant sur des expériences utilisateur exceptionnelles.
-* 💡 **Enthousiaste de l'Innovation :** Exploration et adoption continues des nouvelles technologies, avec un intérêt particulier pour les **dernières innovations de Google** et les avancées dans les **technologies graphiques**.
+---
 
-#
+### 🛠️ Projets À La Une :
+
+* **AfyaID :** Application mobile dédiée à la gestion des données médicales avec identification biométrique et accès hors-ligne.
+* **Moteki :** Solution logicielle multiplateforme pour la gestion commerciale, des ventes et des stocks.
+* **DUKA_APP :** Solution mobile adaptée à la gestion d'opérations de terrain et aux transactions commerciales locales.
+
+---
 
 ### 🤝 Communauté & Mentorat :
 
-Je crois qu'il est important de rendre et de favoriser la croissance au sein de la communauté technologique. Je suis un **Organisateur** et **Mentor** actif et fier au sein de la communauté **GDG on Campus UCB**, guidant plus de **200 membres passionnés**. Partager mes connaissances et autonomiser la prochaine génération de développeurs est une partie essentielle de mon parcours.
+En tant qu'**Organisateur et Mentor** au sein de la communauté **GDG on Campus UCB**, j'accompagne plus de **200 membres** dans leur apprentissage. Le partage de connaissances et la formation de la prochaine génération de développeurs est au cœur de mon engagement.
 
-#
+---
 
-### 📊 Statistiques & Activité GitHub :
-
-Présentation de mes contributions et de mes technologies préférées.
+### 📊 Statistiques GitHub :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kevinkish&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&bg_color=1F222E" alt="Statistiques GitHub de Kevinkish"/>
@@ -95,10 +111,8 @@ Présentation de mes contributions et de mes technologies préférées.
 
 ---
 
-### 📫 Contactez-moi !
+### 📫 Me Contacter & Portfolio :
 
-Je suis toujours ouvert à la collaboration sur des projets stimulants ou à la discussion de nouvelles technologies. N'hésitez pas à me contacter !
-
+* **Portfolio :** [kevin-kishikanyi.vercel.app](https://kevin-kishikanyi.vercel.app/)
 * **LinkedIn :** [Kevin Kishikanyi](https://www.linkedin.com/in/kevin-kishikanyi-06b816269)
 * **Email :** [kevinkish117@gmail.com](mailto:kevinkish117@gmail.com)
----
