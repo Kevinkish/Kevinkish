@@ -1,14 +1,15 @@
 # 👋 Hi there, I'm Kevin Kishikanyi Ruhamo!
 
-Passionate Mobile & Software Developer | Community Organizer.
+Passionate Mobile Developer & Community Organizer.
 
-I am a software developer with **3 years of hands-on experience** specializing in cross-platform and native mobile development using **Flutter** and **Kotlin**, paired with robust backend services using **SpringBoot** and **Firebase**.
+I am a fullstack developer with **3 years of hands-on experience** specializing in mobile and backend engineering using **Flutter**, **Kotlin**, **SpringBoot**, and **Docker**, supported by robust cloud services with **Firebase**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=black" alt="Kotlin Badge"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot Badge"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot Badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
 </p>
 
@@ -16,17 +17,17 @@ I am a software developer with **3 years of hands-on experience** specializing i
 
 ### 🚀 What I Do:
 
-* 📱 **Mobile Development:** Building robust, scalable, and multiplatform mobile applications with **Flutter & Dart**, as well as native Android development with **Kotlin**.
-* ⚙️ **Backend & APIs:** Designing and implementing secure RESTful APIs and backend microservices using **SpringBoot** and **Firebase**.
-* 🏗️ **Software Architecture:** Applying clean architecture principles (MVVM, Clean Architecture, Modular design) to write maintainable and well-structured code.
-* 🎨 **Visual & Design Sensibility:** Leveraging skills in **Photoshop** to maintain visual polish, high-quality media graphics, and clean user experience interfaces.
-* 💡 **Tech Community Leadership:** Mentoring student developers, speaking at tech events, and actively driving developer community initiatives.
+* 📱 **Mobile Development:** Building robust, scalable, and cross-platform mobile apps with **Flutter & Dart**, as well as native Android development with **Kotlin** and also **Kotlin Mutliplatform (KMP)**.
+* ⚙️ **Backend Engineering & DevOps:** Designing RESTful APIs and backend services using **SpringBoot**, and containerizing applications with **Docker**.
+* 🏗️ **Architecture & Performance:** Applying clean software architectures (MVVM, Clean Architecture, Modular design) to write maintainable and tested code.
+* ☁️ **Cloud Services:** Integrating **Firebase** ecosystems (Firestore, Auth, Storage, Cloud Functions) and cloud infrastructure.
+* 💡 **Tech & Community Leadership:** Mentoring student developers, speaking at tech events, and actively driving developer community initiatives.
 
 ---
 
 ### 🌐 Community & Mentoring:
 
-I serve as an **Organizer and Mentor** at **GDG on Campus UCB**, helping over **200+ passionate members** grow as software engineers. I love sharing practical industry skills, conducting technical workshops, and fostering the local tech ecosystem.
+I serve as an **Organizer and Mentor** at **GDG on Campus UCB**, helping over **200+ passionate members** grow as software engineers. I love sharing practical industry skills, conducting technical workshops, and fostering the local tech community.
 
 ---
 
@@ -53,15 +54,16 @@ I serve as an **Organizer and Mentor** at **GDG on Campus UCB**, helping over **
 
 # 👋 Salut, je suis Kevin Kishikanyi Ruhamo !
 
-### 🚀 Développeur Mobile & Logiciel | Flutter💙 | Kotlin📱 | SpringBoot🌱 | Firebase🔥
+### 🚀 Développeur FullStack | Flutter💙 & Kotlin📱 | SpringBoot🌱 & Docker🐳
 
-Je suis un **développeur mobile et logiciel** passionné avec **3 ans d'expérience pratique** dans la création d'applications robustes, évolutives et intuitives. Mon expertise combine le développement frontend mobile avec **Flutter** et **Kotlin**, ainsi que la conception d'architectures backend avec **SpringBoot** et **Firebase**.
+Je suis un **développeur** passionné avec **3 ans d'expérience pratique** dans la création d'applications robustes, évolutives et intuitives. Mon expertise s'articule autour du développement mobile avec **Flutter** et **Kotlin**, du backend avec **SpringBoot**, de la conteneurisation avec **Docker**, ainsi que des architectures cloud **Firebase**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Badge Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Badge Dart"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=black" alt="Badge Kotlin"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Badge SpringBoot"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Badge SpringBoot"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Badge Docker"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Badge Firebase"/>
 </p>
 
@@ -69,11 +71,11 @@ Je suis un **développeur mobile et logiciel** passionné avec **3 ans d'expéri
 
 ### ✨ Mes Compétences & Ce Que Je Fais :
 
-* 📱 **Développement Mobile :** Conception d'applications multiplateformes performantes avec **Flutter/Dart** et développement Android natif en **Kotlin**.
-* ⚙️ **Backend & APIs :** Développement et intégration d'APIs RESTful et de services backend robustes avec **SpringBoot** et **Firebase**.
-* 🏗️ **Architecture & Qualité de Code :** Application des bonnes pratiques logicielles (Clean Architecture, MVVM) pour garantir un code modulaire et facile à maintenir.
-* 🎨 **Sensibilité Visuelle :** Utilisation de **Photoshop** pour enrichir la qualité visuelle, la conception graphique et le soin apporté à l'expérience utilisateur.
-* 🤝 **Engagement Communautaire :** Organisation de sessions techniques, mentorat d'étudiants développeurs et promotion des technologies émergentes.
+* 📱 **Développement Mobile Multiplateforme & Natif :** Conception d'applications performantes avec **Flutter/Dart** et développement Android natif en **Kotlin** et aussi **Kotlin Multiplateforme (KMP)**.
+* ⚙️ **Ingénierie Backend & DevOps :** Développement d'APIs REST avec **SpringBoot** et déploiement d'environnements de développement et production conteneurisés avec **Docker**.
+* 🏗️ **Architecture & Qualité de Code :** Application des bonnes pratiques logicielles (Clean Architecture, MVVM) pour garantir des applications évolutives et faciles à maintenir.
+* ☁️ **Services Backend & Cloud :** Connexion aux services **Firebase** (Firestore, Authentification, Stockage, Cloud Functions) et consommation d'APIs RESTful.
+* 🤝 **Engagement Communautaire :** Organisation de sessions techniques, mentorat d'étudiants développeurs et promotion des technologies Google.
 
 ---
 
